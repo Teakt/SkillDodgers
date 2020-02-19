@@ -1,0 +1,2 @@
+C:\Users\Travail\Documents\UnityProjects\SkillDodger\SkillDodger\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Travail\Documents\UnityProjects\SkillDodger\SkillDodger\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
